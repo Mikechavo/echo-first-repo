@@ -17,3 +17,12 @@
 - git commit -m"first commit"
 - git push origin main
     - whichever branch you are on
+
+- more content 
+    - cd echo-first-repo
+        + to find the folder
+    - touch echo-script.js 
+        + to add file
+    - code .
+        + to open the file in vs code
+        
