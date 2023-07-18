@@ -1,3 +1,4 @@
+// Just practicing
 const treasure = (location) => {
   if(location === gold) {
   document.getElementById(`${location}`).innerHTML = "&#x1f308" 
